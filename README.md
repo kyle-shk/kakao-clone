@@ -1,20 +1,3 @@
-<!DOCTYPE html>
-<html>
- <head>
-   <meta charset="utf-8">
-   <meta name="author" content="nomad coders">
-   <meta name="description" content="welcome to my home">
-   <title>This is my title</title>
- </head>
- <body>
-   <section>
-       <header id="headerNumberOne" class="defaultheader">
-           <h1>Title of a section</h1>
-       </header>
-   <section>
+# Kokoa Clone 2020 Update
 
-   <div>
-    <header id="differentheader" class="defaultheader">Title of the unkown container</header>
-    </div>
-</body>
-</html>
+HTML & CSS are so much fun!
